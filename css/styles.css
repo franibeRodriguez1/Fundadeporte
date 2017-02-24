@@ -1,0 +1,68 @@
+/* Estilos de Fundadeporte */
+
+.index-page .header-filter:after {
+background: rgba(0,0,0,0.7);
+}
+
+.logo-container .logo {
+    width: 65px;
+    border-color: transparent;
+}
+
+.index-page .brand h3 {
+    font-size: 1.5em; 
+    text-transform: none; 
+    max-width: 400px;
+    margin: 10px auto 0;
+    font-weight: bold;
+    color: rgba(255,255,255,0.7);
+}
+
+.navbar, .navbar.navbar-default {
+    background-color: rgba(184,0,36,0.8);
+    color: #ffffff;
+}
+
+
+
+.index-page .brand h1 {
+     border-bottom: 2px solid white;
+    padding-bottom: 10px;
+}
+
+.btn-row{
+        width: 280px;
+    margin: 0 auto;
+}
+
+h5{
+    font-size: 1.12em;
+}
+
+.img-header{
+        width: 180px;
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+}
+
+.img-header-big{
+        width: 250px;
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+}
+
+.dataText{
+    text-align: center;
+    font-size: 2.5em;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}
+
+.icon-top{
+    font-size: 80px !important;
+    color: #888;
+    text-align: center;
+    display: block;
+}
